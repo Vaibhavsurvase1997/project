@@ -1,0 +1,38 @@
+.fbreg
+{
+    color:  white;
+    background-color: #3b5998;;
+    border-radius: 10px;
+    height: 40px;
+    width:100%;
+    font-size: 20px;
+    border: white;
+    font-weight:600
+}
+
+.gmailreg
+{   
+    bottom :30px;
+    color: white;
+    background-color: #f01a1a;;
+    border-radius: 10px;
+    height: 40px;
+    width:100%;
+    font-size: 20px;
+    border: white;
+    font-weight:600
+
+}
+
+.twitterreg
+{
+    color: white;
+background-color: #00acee;;
+border-radius: 10px;
+height: 40px;
+width:100%;
+font-size: 20px;
+border: white;
+font-weight:600
+
+}
